@@ -1,0 +1,6 @@
+0 Red.jpg
+0 Red80.jpg
+1 Blue.jpg
+1 Blue80.jpg
+2 Yellow.jpg
+2 Yellow80.jpg
