@@ -1,0 +1,2 @@
+ scp -r Images3 pi@10.86.2.120:/home/pi/ObjectDetection
+ 
