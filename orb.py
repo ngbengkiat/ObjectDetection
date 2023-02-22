@@ -44,7 +44,7 @@ def ORB_detector(new_image, template):
 
 print("[INFO] loading images...")
 # Load our image template, this is our reference image
-image_template = cv2.imread("Images2\\newgurney.png", cv2.IMREAD_GRAYSCALE) 
+image_template = cv2.imread("Images2\\Red.jpg", cv2.IMREAD_GRAYSCALE) 
 cv2.imshow('Template', image_template)
 cv2.waitKey(1)
 # image_template = cv2.imread('images/kitkat.jpg', 0) 
